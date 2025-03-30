@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "F:\\BackendBDIII\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\saleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\saleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\producthistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\producthistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\iproductshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\iproductshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\isaleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\isaleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|f:\\backendbdiii\\backendbdiii\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|solutionrelative:backendbdiii\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|f:\\backendbdiii\\backendbdiii\\controllers\\operatorcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|solutionrelative:backendbdiii\\controllers\\operatorcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\repositories\\operatorcommentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\saleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\saleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|f:\\backendbdiii\\backendbdiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|solutionrelative:backendbdiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\producthistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\producthistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|f:\\backendbdiii\\backendbdiii\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,18 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\ioperatorcommentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\ioperatorcommentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\iproductshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\iproductshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|f:\\backendbdiii\\backendbdiii\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C082D47-684B-4F89-82F2-F8EE9DE92641}|BackendBDIII\\BackendBDIII.csproj|solutionrelative:backendbdiii\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|f:\\backendbdiii\\backendbdiii.data\\mongodbrepositories\\isaleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA9FE850-B4EC-4B50-9B37-099000D1EF24}|BackendBDIII.Data\\BackendBDIII.Data.csproj|solutionrelative:backendbdiii.data\\mongodbrepositories\\isaleshistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +62,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Program.cs",
+              "RelativeDocumentMoniker": "BackendBDIII\\Program.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Program.cs",
+              "RelativeToolTip": "BackendBDIII\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIBJwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:35:05.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelperMethods.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\HelperMethods.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\HelperMethods.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\HelperMethods.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\HelperMethods.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:33:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:33:14.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:17:16.947Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -62,112 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Program.cs",
-              "RelativeDocumentMoniker": "BackendBDIII\\Program.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Program.cs",
-              "RelativeToolTip": "BackendBDIII\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T18:35:05.32Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OperatorCommentsController.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\OperatorCommentsController.cs",
-              "RelativeDocumentMoniker": "BackendBDIII\\Controllers\\OperatorCommentsController.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\OperatorCommentsController.cs",
-              "RelativeToolTip": "BackendBDIII\\Controllers\\OperatorCommentsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwBwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:51:36.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OperatorCommentsRepository.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
-              "RelativeDocumentMoniker": "BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
-              "RelativeToolTip": "BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:50:13.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IOperatorCommentsRepository.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
-              "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
-              "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:47:58.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "BackendBDIII\\Controllers\\ProductoController.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "BackendBDIII\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAEwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:38:15.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductHistoryRepository.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
-              "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
-              "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:36:35.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductsHistoryRepository.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
-              "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
-              "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:36:03.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VentasController.cs",
-              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\VentasController.cs",
-              "RelativeDocumentMoniker": "BackendBDIII\\Controllers\\VentasController.cs",
-              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\VentasController.cs",
-              "RelativeToolTip": "BackendBDIII\\Controllers\\VentasController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:13:01.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "ISalesHistoryRepository.cs",
               "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\ISalesHistoryRepository.cs",
               "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\ISalesHistoryRepository.cs",
@@ -180,15 +140,106 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductsHistoryRepository.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\IProductsHistoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:36:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductHistoryRepository.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\ProductHistoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:36:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SalesHistoryRepository.cs",
               "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\SalesHistoryRepository.cs",
               "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\SalesHistoryRepository.cs",
               "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\SalesHistoryRepository.cs",
               "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\SalesHistoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T23:08:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "BackendBDIII\\Controllers\\ProductoController.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "BackendBDIII\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBJwEwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:38:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOperatorCommentsRepository.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\MongoDBRepositories\\IOperatorCommentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:47:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OperatorCommentsRepository.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
+              "RelativeDocumentMoniker": "BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
+              "RelativeToolTip": "BackendBDIII.Data\\Repositories\\OperatorCommentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:50:13.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperatorCommentsController.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\OperatorCommentsController.cs",
+              "RelativeDocumentMoniker": "BackendBDIII\\Controllers\\OperatorCommentsController.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\OperatorCommentsController.cs",
+              "RelativeToolTip": "BackendBDIII\\Controllers\\OperatorCommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:51:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "BackendBDIII\\Controllers\\VentasController.cs",
+              "ToolTip": "F:\\BackendBDIII\\BackendBDIII\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "BackendBDIII\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:13:01.79Z",
               "EditorCaption": ""
             }
           ]
