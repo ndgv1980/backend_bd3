@@ -34,6 +34,38 @@ namespace BackendBDIII.Data
             return userValidated;
         }
 
+        public static async Task<bool> CheckIfIsAdmin(IUsuarioRepository i_usuarioRepository, string i_token) 
+        {
+            var users = await i_usuarioRepository.GetAllUsers();
+
+            foreach (var user in users)
+            {
+                string hash = HelperMethods.GetUserHash(user);
+                if (hash == i_token)
+                {
+                    return user.Administrador == 1;
+                }
+            }
+
+            return false;
+        }
+
+        public static async Task<int> GetUserIdFromToken(IUsuarioRepository i_usuarioRepository, string i_token) 
+        {
+            var users = await i_usuarioRepository.GetAllUsers();
+
+            foreach (var user in users)
+            {
+                string hash = HelperMethods.GetUserHash(user);
+                if (hash == i_token)
+                {
+                    return user.Id;
+                }
+            }
+
+            return -1;
+        }
+
         private static String sha256_hash(string value)
         {
             StringBuilder Sb = new StringBuilder();

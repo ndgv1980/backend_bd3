@@ -1,4 +1,5 @@
 ﻿using BackendBDIII.Data;
+using BackendBDIII.Data.MongoDBRepositories;
 using BackendBDIII.Data.Repositories;
 using BackendBDIII.Model;
 using Microsoft.AspNetCore.Mvc;
@@ -10,10 +11,11 @@ namespace BackendBDIII.Controllers
     [ApiController]
     public class ProductoController : ControllerBase
     {
-        public ProductoController(IProductoRepository i_productoRepository, IUsuarioRepository i_usuarioRepository) 
+        public ProductoController(IProductoRepository i_productoRepository, IUsuarioRepository i_usuarioRepository, IProductsHistoryRepository i_productsHistoryRepository) 
         {
             m_productoRepository = i_productoRepository;
             m_usuarioRepository = i_usuarioRepository;
+            m_productsHistoryRepository = i_productsHistoryRepository;
         }
 
         [HttpGet]
@@ -37,6 +39,15 @@ namespace BackendBDIII.Controllers
                 return BadRequest(new { Error = "Invalid token." });
             }
 
+            await m_productsHistoryRepository.InsertProductHistory(new()
+            {
+                Codigo_Producto = i_product.Codigo_Producto,
+                Nombre_Producto = i_product.Nombre_Producto,
+                Precio_Unitario = i_product.Precio_Unitario,
+                Fecha = DateTime.Now,
+                Operacion = "Insert"
+            });
+
             return Ok(await m_productoRepository.InsertProduct(i_product));
         }
 
@@ -48,6 +59,13 @@ namespace BackendBDIII.Controllers
             {
                 return BadRequest(new { Error = "Invalid token." });
             }
+
+            await m_productsHistoryRepository.InsertProductHistory(new()
+            {
+                Codigo_Producto = i_productId,
+                Fecha = DateTime.Now,
+                Operacion = "Delete"
+            });
 
             return Ok(await m_productoRepository.DeleteProduct(new() { Codigo_Producto = i_productId }));
         }
@@ -61,10 +79,20 @@ namespace BackendBDIII.Controllers
                 return BadRequest(new { Error = "Invalid token." });
             }
 
+            await m_productsHistoryRepository.InsertProductHistory(new() 
+            {
+                Codigo_Producto = i_product.Codigo_Producto,
+                Nombre_Producto = i_product.Nombre_Producto,
+                Precio_Unitario = i_product.Precio_Unitario,
+                Fecha = DateTime.Now,
+                Operacion = "Update"
+            });
+
             return Ok(await m_productoRepository.UpdateProduct(i_product));
         }
 
         private readonly IProductoRepository m_productoRepository;
         private readonly IUsuarioRepository m_usuarioRepository;
+        private readonly IProductsHistoryRepository m_productsHistoryRepository;
     }
 }

@@ -2,6 +2,8 @@ using BackendBDIII.Data;
 using BackendBDIII.Data.Repositories;
 using MySql.Data.MySqlClient;
 using Microsoft.OpenApi.Models;
+using MongoDB.Driver;
+using BackendBDIII.Data.MongoDBRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,13 +16,20 @@ builder.Services.AddOpenApi();
 
 #region Configurations
 
-// Get SQL connection configuration string.
+// Setup MySQL.
 MySQLConfiguration mySQLConfiguration = new(builder.Configuration.GetConnectionString("MySQLConnection") ?? 
     throw new Exception("Configuration string not found!"));
 builder.Services.AddSingleton(mySQLConfiguration);
-
-// Create connection.
 builder.Services.AddSingleton(new MySqlConnection(mySQLConfiguration.ConnectionString));
+
+// Setup MongoDB.
+var connectionString = Environment.GetEnvironmentVariable("MONGODB_URI");
+if (connectionString == null)
+{
+    Console.WriteLine("You must set your 'MONGODB_URI' environment variable. To learn how to set it, see https://www.mongodb.com/docs/drivers/csharp/current/quick-start/#set-your-connection-string");
+    Environment.Exit(0);
+}
+builder.Services.AddSingleton(new MongoClient(connectionString));
 
 // Setup repositories.
 builder.Services.AddScoped<IAlmacenRepository, AlmacenRepository>();
@@ -30,6 +39,10 @@ builder.Services.AddScoped<IStockRepository, StockRepository>();
 builder.Services.AddScoped<IVentasRepository, VentasRepository>();
 builder.Services.AddScoped<ISubventaRepository, SubventaRepository>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+builder.Services.AddScoped<ISalesHistoryRepository, SalesHistoryRepository>();
+builder.Services.AddScoped<IProductsHistoryRepository, ProductHistoryRepository>();
+builder.Services.AddScoped<IOperatorCommentsRepository, OperatorCommentsRepository>();
 
 // Setup Swagger UI.
 if (builder.Environment.IsDevelopment())

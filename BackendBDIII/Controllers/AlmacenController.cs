@@ -37,6 +37,11 @@ namespace BackendBDIII.Controllers
                 return BadRequest(new { Error = "Invalid token." });
             }
 
+            if (!await HelperMethods.CheckIfIsAdmin(m_usuarioRepository, i_token))
+            {
+                return BadRequest(new { Error = "User doesn't have the required access level." });
+            }
+
             return Ok(await m_almacenRepository.InsertStorageLocation(i_storageLocation));
         }
 
@@ -49,6 +54,11 @@ namespace BackendBDIII.Controllers
                 return BadRequest(new { Error = "Invalid token." });
             }
 
+            if (!await HelperMethods.CheckIfIsAdmin(m_usuarioRepository, i_token))
+            {
+                return BadRequest(new { Error = "User doesn't have the required access level." });
+            }
+
             return Ok(await m_almacenRepository.DeleteStorageLocation(new() { Codigo_Almacen = i_storageLocationId }));
         }
 
@@ -59,6 +69,11 @@ namespace BackendBDIII.Controllers
             if (!userValidated)
             {
                 return BadRequest(new { Error = "Invalid token." });
+            }
+
+            if (!await HelperMethods.CheckIfIsAdmin(m_usuarioRepository, i_token)) 
+            {
+                return BadRequest(new { Error = "User doesn't have the required access level." });
             }
 
             return Ok(await m_almacenRepository.UpdateStorageLocation(i_storageLocation));
